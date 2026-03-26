@@ -65,7 +65,7 @@ export default function LandingPage() {
           handle: "@foodie_sarah",
           testimonial: "Dante superó todas nuestras expectativas. El ambiente es mágico, y cada plato, una obra de arte. ¡Una noche inolvidable!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-afro-american-woman-smiling_23-2148336914.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-afro-american-woman-smiling_23-2148336914.jpg?_wi=1",
           imageAlt: "Sarah Johnson, CEO",
         },
         {
@@ -73,7 +73,7 @@ export default function LandingPage() {
           handle: "@eventpro_mike",
           testimonial: "Organizamos una cena corporativa en Dante y el servicio fue impecable. La arquitectura y la propuesta culinaria impresionaron a todos nuestros clientes.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-man-talking-phone_150588-75.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-man-talking-phone_150588-75.jpg?_wi=1",
           imageAlt: "Michael Chen, Event Planner",
         },
         {
@@ -81,7 +81,7 @@ export default function LandingPage() {
           handle: "@eleganteats",
           testimonial: "Cada visita a Dante es una experiencia sensorial. La fusión de historia y alta cocina crea un escenario perfecto para momentos especiales. Imprescindible en Santa Fe.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg?_wi=1",
           imageAlt: "Emily Rodriguez, Blogger",
         },
         {
@@ -89,7 +89,7 @@ export default function LandingPage() {
           handle: "@santafedining",
           testimonial: "El mejor restaurante de Santa Fe, sin duda. La atención al detalle, desde la bienvenida hasta el último postre, es excepcional. Un verdadero lujo gastronómico.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-outdoors-successful-business-person_23-2148763862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-outdoors-successful-business-person_23-2148763862.jpg?_wi=1",
           imageAlt: "David Kim, Food Critic",
         },
       ]}
@@ -196,7 +196,7 @@ export default function LandingPage() {
           name: "Martina Suárez",
           role: "Directora de Arte",
           testimonial: "Una noche absolutamente mágica. El teatro crea un telón de fondo impresionante, y la comida es simplemente sublime. La mejor experiencia gastronómica en Santa Fe.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-afro-american-woman-smiling_23-2148336914.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-afro-american-woman-smiling_23-2148336914.jpg?_wi=2",
           imageAlt: "Martina Suárez",
         },
         {
@@ -204,7 +204,7 @@ export default function LandingPage() {
           name: "Juan Pablo Gómez",
           role: "Empresario",
           testimonial: "Dante es el lugar ideal para cenas de negocios. La combinación de privacidad, elegancia y un menú impecable garantiza siempre una impresión duradera. Un lujo.",
-          imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-man-talking-phone_150588-75.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/middle-aged-man-talking-phone_150588-75.jpg?_wi=2",
           imageAlt: "Juan Pablo Gómez",
         },
         {
@@ -212,7 +212,7 @@ export default function LandingPage() {
           name: "Sofía Hernández",
           role: "Influencer de Viajes",
           testimonial: "Cada plato es una obra de arte y el servicio es de primera clase. ¡El ambiente es tan fotogénico! Dante es un 'must' para cualquiera que visite Santa Fe.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg?_wi=2",
           imageAlt: "Sofía Hernández",
         },
         {
@@ -220,7 +220,7 @@ export default function LandingPage() {
           name: "Ricardo López",
           role: "Critico Gastronómico",
           testimonial: "Dante redefine la experiencia culinaria. La audacia de la cocina de autor en un marco tan histórico es excepcional. Un referente gastronómico en Argentina.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-outdoors-successful-business-person_23-2148763862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-outdoors-successful-business-person_23-2148763862.jpg?_wi=2",
           imageAlt: "Ricardo López",
         },
         {
